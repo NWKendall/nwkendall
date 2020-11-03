@@ -18,9 +18,7 @@ And I haven't looked back! 👍
 - 🌱 I’m excited to learn....
   - Anything to do with TypeScript!
   - CS50x Harvard CS course
-- 📫 How to reach me: ...
-  - [email]("nic.kendall.dev@protonmail.com")
-  - https://www.linkedin.com/in/nwkendall/
+
 
 <!--
 **NWKendall/nwkendall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
